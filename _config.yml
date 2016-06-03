@@ -1,0 +1,14 @@
+layout_spectrum: 0.7381192748434842
+typography_spectrum: 0.29267373215407133
+color:
+  brandStrength: 0.9273203529883176
+  lightness: 0.4280500279273838
+  saturation: 0.8082202537916601
+  rhythmicContrast: 0.18517502350732684
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: redhurtmachine
