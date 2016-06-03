@@ -6,9 +6,9 @@ color:
   saturation: 0.8082202537916601
   rhythmicContrast: 0.18517502350732684
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
 name: redhurtmachine
