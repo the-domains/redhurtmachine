@@ -9,18 +9,18 @@ author:
         - - 116
           - 117
           - 124
-        - - 173
-          - 216
-          - 225
-        - - 208
-          - 181
-          - 156
+        - - 182
+          - 214
+          - 217
         - - 61
           - 65
           - 72
-        - - 149
-          - 163
+        - - 206
           - 173
+          - 152
+        - - 139
+          - 169
+          - 184
 related: []
 publisher:
   url: 'https://twitter.com'
@@ -29,15 +29,15 @@ publisher:
   domain: twitter.com
 keywords:
   - twitter
-  - https
   - pic
+  - https
+  - http
+  - www
   - status
-  - creativemorning
-  - tweet
-  - location
-  - '27411'
-  - turttfpl60
-  - aigacolorado
+  - cushionapp
+  - podcast
+  - design
+  - html
 description: >-
   The latest Tweets from RJ Owen (@rjowen). Director of UX at @universalmind and
   host of @cm_denver. Coffee nut. Denver, CO
@@ -48,9 +48,9 @@ app_links:
     package: com.twitter.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://twitter.com/rjowen'
-datePublished: '2016-06-07T13:43:14.784Z'
-dateModified: '2016-06-07T13:39:11.466Z'
+isBasedOnUrl: 'http://twitter.com/rjowen'
+datePublished: '2016-06-07T13:43:14.792Z'
+dateModified: '2016-06-03T19:25:42.836Z'
 title: ''
 starred: false
 sourcePath: _posts/2016-06-07-the-latest-tweets-from-rj-owen-rjowen-director-of-ux-at.md
