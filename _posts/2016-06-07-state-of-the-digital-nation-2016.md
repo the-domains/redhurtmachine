@@ -26,8 +26,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://blog.marvelapp.com/state-of-the-digital-nation-2016'
 title: State of the Digital Nation 2016
-datePublished: '2016-06-07T13:44:13.210Z'
-dateModified: '2016-06-07T13:44:04.893Z'
+datePublished: '2016-06-07T13:45:37.938Z'
+dateModified: '2016-06-07T13:45:18.126Z'
 starred: false
 sourcePath: _posts/2016-06-07-state-of-the-digital-nation-2016.md
 inFeed: true
